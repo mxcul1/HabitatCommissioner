@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test model;",
+    "owner": "Me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "a",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Tom"
+  }
+}
