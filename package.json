@@ -24,7 +24,7 @@
     "@angular/platform-server": "^5.1.0",
     "@angular/router": "^5.1.0",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.7",
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "body-parser": "^1.18.1",
     "bootstrap": "^4.0.0-beta",
     "btoa": "^1.1.2",
